@@ -1,25 +1,24 @@
-# SPOORTHY VV
+# ANSON SAROSH DSOUZA
 
 
 
 
 ### CONTACT DETAILS 
 
-    Bangalore, Karnataka ,8105136046 , spoorthyvv@gmail.com,spoorthy.osb@gmail.com
+    Mangalore, Karnataka ,9591225481 , ansonsaroshdsouza@gmail.com,4al20is006@gmail.com,spydr2202@gmail.com
     
 ### EDUCATION
 
     UNDER GRADUATION 
 
     ALVA’S INSTITUTE OF ENGINEERING AND TECHNOLOGY Currently pursuing 
-    third year in Computer Science Engineering Course with current 
-    CGPA of 8.7
+    third year in Information Science Engineering Course
 				
 				
     PRE-UNIVESITY   
      
-    NARAYANA PU COLLEGE , BANGALORE . Obtained with percentile of 80.
+    Rotary Pre University College, Moodbidri
          
     SCHOOLING 
    
-    ST.PETER’S SCHOOL , BANGALORE Obtained with a percentile of 80.25
+    Rotary English Medium High School, Moodbidri
