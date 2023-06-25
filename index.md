@@ -53,7 +53,7 @@
 
     Completed Programming Fundamentals Using Python part-1 Powered by Infosys-Springboard. 
 
-    Completed Programming Fundamentals using Python-Science Graduates-Foundation Program Powered by Infosys-Springboard.
+    Completed Programming Fundamentals using Python-Science Graduates- Foundation Program Powered by Infosys-Springboard.
     
     Conducted a session for College Juniors on Networking,Cybersecurity & Linux.
 
