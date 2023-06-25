@@ -52,6 +52,8 @@
     Completed Learn Ethical Hacking from scratch Powered by Udemy.
 
     Completed Programming Fundamentals Using Python part-1 Powered by Infosys-Springboard. 
+
+    Completed Programming Fundamentals using Python-Science Graduates-Foundation Program Powered by Infosys-Springboard.
     
     Conducted a session for College Juniors on Networking,Cybersecurity & Linux.
 
@@ -73,4 +75,5 @@
 ### PROJECTS
 
     • DBMS project on Blood Donation Management System.
+    • Android project on Smart Alarm System.
    
