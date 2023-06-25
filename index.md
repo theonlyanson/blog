@@ -35,42 +35,42 @@
 
 ### ACTIVITIES AND WORKSHOPS
 
-    Completed Fundamentals of Digital Marketing certification exam Powered by Google Digital
-    Unlocked.
+    Completed ntroduction to Cybersecurity Tools Cyber Attacks Powered by IBM.
 
-    Completed Introduction to Cyber Security Certification Powered by Cisco.
+    Completed International Cyber Conflicts Powered by The State University Of NewYork.
 
-    Completed Step into Robotic Process Automation during GUVI’s RPA SKILL-A-THON 2020.
+    Completed Information Security:Context and Introduction Powered by Royal Holloway University of London.
 
-    Completed 3 week technothon Powered by IIIT Allahabad.
+    Completed Google Cloud Fundamentals: Core Infrastructure Powered by Google Cloud.
 
-    Organized a talk by IIIT Scholar for College Juniors on networking.
+    Completed Blockchain Use Cases Powered by Amity Future Academy.
 
-    Participated in Makers Makeathon held by Yuva Entrepreneurship program of Deshpande
-    Startups, Hubli
+    Completed Python 101 for Data Science Powered by Cognitive Class(IBM).
 
-    Participated in a project exhibition ( mechanical based project )
+    Completed Introduction to Cyber Security Powered by Great learning.
 
-    An adventurous experience as a Co-Pilot in the Trainer’s Aircraft namely VIRUS.
+    Completed Learn Ethical Hacking from scratch Powered by Udemy.
 
-    Attended Open Source Summit Automotive Japan Virtual.
+    Completed Programming Fundamentals Using Python part-1 Powered by Infosys-Springboard. 
+    
+    Conducted a session for College Juniors on Networking,Cybersecurity & Linux.
+
+    Attended Open Source Summit FSCI(Free Source Community India).
 
 ### SKILLS
 
     Familiar with working with Linux Operating Systems .
-    Programming in C, C++, SQL, JAVA and PYTHON.
+    Programming in C, C++, SQL and PYTHON.
     Familiar with Raspberry pi, Hard Kernel usage.
 
 
 ### INTERESTS 
 
-    Love playing Basketball , chess , Throwball , Athletics and many more .
+    Love playing Basketball , chess , Volleyball , Karate and many more .
    
 
 
 ### PROJECTS
 
-    • Voice to Command execution using Python and Bash scripting exclusively only for Linux OS.
-    • Worked as a team member in ARES (Alva’s Remote education System) .
-    • Developed an application in Streamlit for Interview practices which was exclusively for HR
+    • DBMS project on Blood Donation Management System.
    
