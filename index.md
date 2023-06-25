@@ -66,7 +66,7 @@
 
 ### INTERESTS 
 
-    Love playing Basketball , chess , Volleyball , Karate and many more .
+    Love playing Basketball,Chess,Volleyball,Karate and many more .
    
 
 
