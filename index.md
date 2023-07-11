@@ -35,7 +35,7 @@
 
 ### ACTIVITIES AND WORKSHOPS
 
-    Completed ntroduction to Cybersecurity Tools Cyber Attacks Powered by IBM.
+    Completed Introduction to Cybersecurity Tools Cyber Attacks Powered by IBM.
 
     Completed International Cyber Conflicts Powered by The State University Of NewYork.
 
