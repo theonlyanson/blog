@@ -1,4 +1,4 @@
-baseURL: https://theonlyanson.github.io/
+baseURL: "https://theonlyanson.github.io/"
 languageCode: en-us
 title: ASD Blogs
 theme: PaperMod
