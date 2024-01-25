@@ -6,6 +6,21 @@
     <description>Recent content in Tags on ASD Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jan 2024 01:00:20 -0600</lastBuildDate>
     <atom:link href="https://theonlyanson.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bash</title>
+      <link>https://theonlyanson.github.io/tags/bash/</link>
+      <pubDate>Thu, 25 Jan 2024 01:00:20 -0600</pubDate>
+      <guid>https://theonlyanson.github.io/tags/bash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://theonlyanson.github.io/tags/linux/</link>
+      <pubDate>Thu, 25 Jan 2024 01:00:20 -0600</pubDate>
+      <guid>https://theonlyanson.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
