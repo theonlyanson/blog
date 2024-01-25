@@ -2,3 +2,47 @@ baseURL: "https://theonlyanson.github.io/"
 languageCode: en-us
 title: ASD Blogs
 theme: PaperMod
+
+params:
+  cover:
+    linkFullImages: true
+    responsiveImages: false
+
+  ShowBreadCrumbs: true
+  ShowShareButtons: true
+  ShowToc: true
+  TocOpen: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  author: ["Anson Sarosh Dsouza"]
+  ShowReadingTime: true
+  #disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  # ShowWordCount: true
+  # ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  # comments: true
+  hideFooter: true
+  # displayFullLangName: true
+  # analytics.google.SiteVerificationTag: true
+
+  
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 40
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+      outputs:
+        home:
+          - HTML
+          - RSS
+          - JSON # necessary for search
