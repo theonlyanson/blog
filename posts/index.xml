@@ -9,6 +9,14 @@
     <lastBuildDate>Thu, 25 Jan 2024 01:00:20 -0600</lastBuildDate>
     <atom:link href="https://theonlyanson.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Getting to Know Me: A Glimpse into My World</title>
+      <link>https://theonlyanson.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 22 Jan 2024 09:05:16 -0600</pubDate>
+      <guid>https://theonlyanson.github.io/posts/my-first-post/</guid>
+      <description>Hello, dear readers! Welcome to my corner of the internet. It&amp;rsquo;s a pleasure to have you here. I&amp;rsquo;ve decided to kick off my blogging journey with a personal introduction, so you can get to know the face behind the words on this screen.
+About Me My name is Anson Sarosh Dsouza, and I&amp;rsquo;m a 21-year-old hailing from Mangalore. As I embark on this blogging adventure, I want to share a bit about myself, my interests, and what you can expect from this blog.</description>
+    </item>
+    <item>
       <title>How to resolve USB Autosuspend Issue?</title>
       <link>https://theonlyanson.github.io/posts/usb-autosuspend/</link>
       <pubDate>Thu, 25 Jan 2024 01:00:20 -0600</pubDate>
@@ -38,14 +46,6 @@ Today, I encountered a challenging issue when my network driver mysteriously van
 Step 1: Checking Network Interfaces First, I ran the following command to verify the presence of the wlan0 interface:
 ifconfig To my surprise, wlan0 was nowhere to be found.
 Step 2: Restarting NetworkManager I attempted to restart the NetworkManager service with the following commands:</description>
-    </item>
-    <item>
-      <title>Getting to Know Me: A Glimpse into My World</title>
-      <link>https://theonlyanson.github.io/posts/my-first-post/</link>
-      <pubDate>Mon, 22 Jan 2024 09:05:16 -0600</pubDate>
-      <guid>https://theonlyanson.github.io/posts/my-first-post/</guid>
-      <description>Hello, dear readers! Welcome to my corner of the internet. It&amp;rsquo;s a pleasure to have you here. I&amp;rsquo;ve decided to kick off my blogging journey with a personal introduction, so you can get to know the face behind the words on this screen.
-About Me My name is Anson Sarosh Dsouza, and I&amp;rsquo;m a 21-year-old hailing from Mangalore. As I embark on this blogging adventure, I want to share a bit about myself, my interests, and what you can expect from this blog.</description>
     </item>
   </channel>
 </rss>
