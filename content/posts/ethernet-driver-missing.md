@@ -4,6 +4,7 @@ date = 2024-01-22T09:25:08-06:00
 draft = false
 +++
 
+![ethernet](/img/ethernet.jpg)
 Hello Folks,
 
 Today, I encountered a challenging issue when my network driver mysteriously vanished. I decided to investigate this problem, and I'd like to share the steps I took to resolve it.
