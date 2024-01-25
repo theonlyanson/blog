@@ -1,9 +1,11 @@
 +++
-title = 'How to resolve Usb Autosuspend Issue?'
+title = 'How to resolve USB Autosuspend Issue?'
 date = 2024-01-25T01:00:20-06:00
 draft = false
+tags = ["bash","Linux"]
 +++
 
+![usb](/img/usb.jpg)
 Hello Reader,
 
 Recently, I encountered an issue where every time I powered on my computer, the externally connected mouse and keyboard would automatically disconnect. It was a frustrating experience, and despite my initial attempts to troubleshoot and resolve the problem, none of the conventional solutions seemed to work.

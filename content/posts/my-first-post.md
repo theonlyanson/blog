@@ -5,7 +5,7 @@ draft = false
 +++
 
 
-
+![ROYAL PHOENIX](/img/phoenix.png)
 Hello, dear readers! Welcome to my corner of the internet. It's a pleasure to have you here. I've decided to kick off my blogging journey with a personal introduction, so you can get to know the face behind the words on this screen.
 
 ## About Me

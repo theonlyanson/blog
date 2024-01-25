@@ -2,8 +2,10 @@
 title = 'Connect to Wifi during Arch installation'
 date = 2024-01-25T00:13:08-06:00
 draft = false
+tags = ["bash","Linux"]
 +++
 
+![archlinux](/img/archlinux.jpg)
 Hello Reader,
 
 During the Arch Linux installation process, connecting to WiFi might be necessary if you are not using a wired connection. Here's a step-by-step guide to help you get your Arch system connected to WiFi.
