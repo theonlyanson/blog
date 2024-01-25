@@ -6,8 +6,19 @@
     <description>Recent content in Posts on ASD Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jan 2024 09:25:08 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 00:13:08 -0600</lastBuildDate>
     <atom:link href="https://theonlyanson.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Connect to Wifi during Arch installation</title>
+      <link>https://theonlyanson.github.io/posts/connect-wifi-arch/</link>
+      <pubDate>Thu, 25 Jan 2024 00:13:08 -0600</pubDate>
+      <guid>https://theonlyanson.github.io/posts/connect-wifi-arch/</guid>
+      <description>Hello Reader,
+During the Arch Linux installation process, connecting to WiFi might be necessary if you are not using a wired connection. Here&amp;rsquo;s a step-by-step guide to help you get your Arch system connected to WiFi.
+Check Available Interfaces First, check the available wireless interfaces using the following command:
+iwconfig Restart DHCP Service Restart the DHCP service to ensure that it is ready to configure the network interfaces:
+systemctl restart dhcpcd Scan for WiFi Networks Use the following command to scan for available WiFi networks:</description>
+    </item>
     <item>
       <title>Ethernet Driver Missing</title>
       <link>https://theonlyanson.github.io/posts/ethernet-driver-missing/</link>
