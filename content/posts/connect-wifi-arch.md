@@ -63,7 +63,7 @@ ping google.com
 
 If you receive responses, congratulations! Your Arch Linux system is now connected to WiFi.
 
-Remember to replace `<interface>`, `<SSID>`, and `<PSK>` with your actual wireless interface name, WiFi network SSID, and passphrase. This should help you seamlessly connect to WiFi during the Arch Linux installation process.
+> Remember to replace `<interface>`, `<SSID>`, and `<PSK>` with your actual wireless interface name, WiFi network SSID, and passphrase. This should help you seamlessly connect to WiFi during the Arch Linux installation process.
 
 Cheers,
 
