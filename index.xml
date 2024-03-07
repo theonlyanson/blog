@@ -6,7 +6,7 @@
     <description>Recent content on ASD Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jan 2024 08:50:52 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 21:45:43 -0600</lastBuildDate>
     <atom:link href="https://theonlyanson.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting to Know Me: A Glimpse into My World</title>
@@ -15,6 +15,14 @@
       <guid>https://theonlyanson.github.io/posts/my-first-post/</guid>
       <description>Hello, dear readers! Welcome to my corner of the internet. It&amp;rsquo;s a pleasure to have you here. I&amp;rsquo;ve decided to kick off my blogging journey with a personal introduction, so you can get to know the face behind the words on this screen.
 About Me My name is Anson Sarosh Dsouza, and I&amp;rsquo;m a 21-year-old hailing from Mangalore. As I embark on this blogging adventure, I want to share a bit about myself, my interests, and what you can expect from this blog.</description>
+    </item>
+    <item>
+      <title>New Malware &#39;WogRAT&#39; Exploits Online Notepad Platform for Covert Operations</title>
+      <link>https://theonlyanson.github.io/posts/wograt/</link>
+      <pubDate>Wed, 06 Mar 2024 21:45:43 -0600</pubDate>
+      <guid>https://theonlyanson.github.io/posts/wograt/</guid>
+      <description>A newly discovered malware, named &amp;lsquo;WogRAT,&amp;rsquo; has been identified targeting both Windows and Linux systems. The malicious software utilizes the online notepad platform &amp;lsquo;aNotepad&amp;rsquo; as a covert channel for storing and retrieving malicious code.
+According to researchers at AhnLab Security Intelligence Center (ASEC), the malware, named after a string found in its code, &amp;lsquo;WingOfGod,&amp;rsquo; has been active since late 2022. It has primarily targeted countries in Asia, including Japan, Singapore, China, and Hong Kong.</description>
     </item>
     <item>
       <title>Manual Arch installation guide for Beginners</title>
