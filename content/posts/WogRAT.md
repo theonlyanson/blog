@@ -7,7 +7,7 @@ draft = false
 ![WogRAT](/img/Rat.png)
 
 
-A newly discovered malware, named 'WogRAT,' has been identified targeting both Windows and Linux systems. The malicious software utilizes the online notepad platform 'aNotepad' as a covert channel for storing and retrieving malicious code.
+A newly discovered malware, named 'WogRAT,' has been identified targeting both Windows and Linux systems. The malicious software utilizes the online notepad platform ['aNotepad'](https://anotepad.com/) as a covert channel for storing and retrieving malicious code.
 
 According to researchers at AhnLab Security Intelligence Center (ASEC), the malware, named after a string found in its code, 'WingOfGod,' has been active since late 2022. It has primarily targeted countries in Asia, including Japan, Singapore, China, and Hong Kong.
 
