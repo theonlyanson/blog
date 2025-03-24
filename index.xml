@@ -6,7 +6,7 @@
     <description>Recent content on ASD Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Mar 2024 21:45:43 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 13:30:48 +0530</lastBuildDate>
     <atom:link href="https://theonlyanson.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting to Know Me: A Glimpse into My World</title>
@@ -15,6 +15,13 @@
       <guid>https://theonlyanson.github.io/posts/my-first-post/</guid>
       <description>Hello, dear readers! Welcome to my corner of the internet. It&amp;rsquo;s a pleasure to have you here. I&amp;rsquo;ve decided to kick off my blogging journey with a personal introduction, so you can get to know the face behind the words on this screen.
 About Me My name is Anson Sarosh Dsouza, and I&amp;rsquo;m a 21-year-old hailing from Mangalore. As I embark on this blogging adventure, I want to share a bit about myself, my interests, and what you can expect from this blog.</description>
+    </item>
+    <item>
+      <title>Deleteme</title>
+      <link>https://theonlyanson.github.io/posts/deleteme/</link>
+      <pubDate>Mon, 24 Mar 2025 13:30:48 +0530</pubDate>
+      <guid>https://theonlyanson.github.io/posts/deleteme/</guid>
+      <description>deleteme after use.</description>
     </item>
     <item>
       <title>New Malware &#39;WogRAT&#39; Exploits Online Notepad Platform for Covert Operations</title>
