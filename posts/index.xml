@@ -2,79 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ASD Blogs</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://theonlyanson.github.io/posts/</link>
     <description>Recent content in Posts on ASD Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-    <lastBuildDate>Mon, 24 Mar 2025 13:30:48 +0530</lastBuildDate>
-    <atom:link href="https://theonlyanson.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-=======
     <lastBuildDate>Mon, 24 Mar 2025 14:52:13 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 0ca27ab (new test post)
+    <atom:link href="https://theonlyanson.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting to Know Me: A Glimpse into My World</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://theonlyanson.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 22 Jan 2024 09:05:16 -0600</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://theonlyanson.github.io/posts/my-first-post/</guid>
       <description>Hello, dear readers! Welcome to my corner of the internet. It&amp;rsquo;s a pleasure to have you here. I&amp;rsquo;ve decided to kick off my blogging journey with a personal introduction, so you can get to know the face behind the words on this screen.
 About Me My name is Anson Sarosh Dsouza, and I&amp;rsquo;m a 21-year-old hailing from Mangalore. As I embark on this blogging adventure, I want to share a bit about myself, my interests, and what you can expect from this blog.</description>
     </item>
     <item>
-<<<<<<< HEAD
-      <title>Deleteme</title>
-      <link>https://theonlyanson.github.io/posts/deleteme/</link>
-      <pubDate>Mon, 24 Mar 2025 13:30:48 +0530</pubDate>
-      <guid>https://theonlyanson.github.io/posts/deleteme/</guid>
-      <description>deleteme after use.</description>
-=======
       <title>Deleteme1</title>
-      <link>http://localhost:1313/posts/deleteme1/</link>
+      <link>https://theonlyanson.github.io/posts/deleteme1/</link>
       <pubDate>Mon, 24 Mar 2025 14:52:13 +0530</pubDate>
-      <guid>http://localhost:1313/posts/deleteme1/</guid>
+      <guid>https://theonlyanson.github.io/posts/deleteme1/</guid>
       <description>testing in progress&amp;hellip;</description>
->>>>>>> 0ca27ab (new test post)
     </item>
     <item>
       <title>New Malware &#39;WogRAT&#39; Exploits Online Notepad Platform for Covert Operations</title>
-      <link>http://localhost:1313/posts/wograt/</link>
+      <link>https://theonlyanson.github.io/posts/wograt/</link>
       <pubDate>Wed, 06 Mar 2024 21:45:43 -0600</pubDate>
-      <guid>http://localhost:1313/posts/wograt/</guid>
+      <guid>https://theonlyanson.github.io/posts/wograt/</guid>
       <description>A newly discovered malware, named &amp;lsquo;WogRAT,&amp;rsquo; has been identified targeting both Windows and Linux systems. The malicious software utilizes the online notepad platform &amp;lsquo;aNotepad&amp;rsquo; as a covert channel for storing and retrieving malicious code.
 According to researchers at AhnLab Security Intelligence Center (ASEC), the malware, named after a string found in its code, &amp;lsquo;WingOfGod,&amp;rsquo; has been active since late 2022. It has primarily targeted countries in Asia, including Japan, Singapore, China, and Hong Kong.</description>
     </item>
     <item>
       <title>Manual Arch installation guide for Beginners</title>
-      <link>http://localhost:1313/posts/arch_install/</link>
+      <link>https://theonlyanson.github.io/posts/arch_install/</link>
       <pubDate>Tue, 30 Jan 2024 08:50:52 -0600</pubDate>
-      <guid>http://localhost:1313/posts/arch_install/</guid>
+      <guid>https://theonlyanson.github.io/posts/arch_install/</guid>
       <description>Installing Arch Linux with GNOME can be a bit more involved, but it&amp;rsquo;s a great choice for a user-friendly desktop environment. Here&amp;rsquo;s a step-by-step guide to install arch manually:
 Step 1: Download and Create a Bootable USB Visit the Arch Linux download page and download the ISO image. Use a tool like Rufus (on Windows), dd (on Linux), or BalenaEtcher (on macOS, Linux, and Windows) to create a bootable USB drive.</description>
     </item>
     <item>
       <title>How to create secure file in linux?</title>
-      <link>http://localhost:1313/posts/tomb/</link>
+      <link>https://theonlyanson.github.io/posts/tomb/</link>
       <pubDate>Fri, 26 Jan 2024 11:37:47 -0600</pubDate>
-      <guid>http://localhost:1313/posts/tomb/</guid>
+      <guid>https://theonlyanson.github.io/posts/tomb/</guid>
       <description>If you&amp;rsquo;re looking for a robust solution to secure your files on a Linux system, Tomb is an excellent tool to explore. Tomb provides a simple and effective way to create encrypted containers for your sensitive data. Follow these steps to get started:
 Install Tomb Firstly, install Tomb on your system using the package manager. For Debian-based systems, you can use the following command:
 sudo apt install tomb Create a Tomb Now, let&amp;rsquo;s create a Tomb, a secure container for your files.</description>
     </item>
     <item>
       <title>How to resolve USB Autosuspend Issue?</title>
-      <link>http://localhost:1313/posts/usb-autosuspend/</link>
+      <link>https://theonlyanson.github.io/posts/usb-autosuspend/</link>
       <pubDate>Thu, 25 Jan 2024 01:00:20 -0600</pubDate>
-      <guid>http://localhost:1313/posts/usb-autosuspend/</guid>
+      <guid>https://theonlyanson.github.io/posts/usb-autosuspend/</guid>
       <description>Hello Reader,
 Recently, I encountered an issue where every time I powered on my computer, the externally connected mouse and keyboard would automatically disconnect. It was a frustrating experience, and despite my initial attempts to troubleshoot and resolve the problem, none of the conventional solutions seemed to work.
 After some persistent digging, I stumbled upon a potential solution that finally addressed the issue. If you&amp;rsquo;re facing a similar problem, give the following steps a try:</description>
     </item>
     <item>
       <title>Connect to Wifi during Arch installation</title>
-      <link>http://localhost:1313/posts/connect-wifi-arch/</link>
+      <link>https://theonlyanson.github.io/posts/connect-wifi-arch/</link>
       <pubDate>Thu, 25 Jan 2024 00:13:08 -0600</pubDate>
-      <guid>http://localhost:1313/posts/connect-wifi-arch/</guid>
+      <guid>https://theonlyanson.github.io/posts/connect-wifi-arch/</guid>
       <description>Hello Reader,
 During the Arch Linux installation process, connecting to WiFi might be necessary if you are not using a wired connection. Here&amp;rsquo;s a step-by-step guide to help you get your Arch system connected to WiFi.
 Check Available Interfaces First, check the available wireless interfaces using the following command:
@@ -83,9 +70,9 @@ systemctl restart dhcpcd Scan for WiFi Networks Use the following command to sca
     </item>
     <item>
       <title>Ethernet Driver Missing</title>
-      <link>http://localhost:1313/posts/ethernet-driver-missing/</link>
+      <link>https://theonlyanson.github.io/posts/ethernet-driver-missing/</link>
       <pubDate>Mon, 22 Jan 2024 09:25:08 -0600</pubDate>
-      <guid>http://localhost:1313/posts/ethernet-driver-missing/</guid>
+      <guid>https://theonlyanson.github.io/posts/ethernet-driver-missing/</guid>
       <description>Hello Folks,
 Today, I encountered a challenging issue when my network driver mysteriously vanished. I decided to investigate this problem, and I&amp;rsquo;d like to share the steps I took to resolve it.
 Step 1: Checking Network Interfaces First, I ran the following command to verify the presence of the wlan0 interface:

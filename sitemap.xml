@@ -2,65 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://theonlyanson.github.io/posts/my-first-post/</loc>
     <lastmod>2024-01-22T09:05:16-06:00</lastmod>
   </url><url>
-<<<<<<< HEAD
     <loc>https://theonlyanson.github.io/</loc>
-    <lastmod>2025-03-24T13:30:48+05:30</lastmod>
+    <lastmod>2025-03-24T14:52:13+05:30</lastmod>
   </url><url>
-    <loc>https://theonlyanson.github.io/posts/deleteme/</loc>
-    <lastmod>2025-03-24T13:30:48+05:30</lastmod>
+    <loc>https://theonlyanson.github.io/posts/deleteme1/</loc>
+    <lastmod>2025-03-24T14:52:13+05:30</lastmod>
   </url><url>
     <loc>https://theonlyanson.github.io/posts/</loc>
-    <lastmod>2025-03-24T13:30:48+05:30</lastmod>
+    <lastmod>2025-03-24T14:52:13+05:30</lastmod>
   </url><url>
     <loc>https://theonlyanson.github.io/posts/wograt/</loc>
     <lastmod>2024-03-06T21:45:43-06:00</lastmod>
   </url><url>
     <loc>https://theonlyanson.github.io/posts/arch_install/</loc>
-=======
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-24T14:52:13+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/deleteme1/</loc>
-    <lastmod>2025-03-24T14:52:13+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-24T14:52:13+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/wograt/</loc>
-    <lastmod>2024-03-06T21:45:43-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/arch_install/</loc>
->>>>>>> 0ca27ab (new test post)
     <lastmod>2024-01-30T08:50:52-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tomb/</loc>
+    <loc>https://theonlyanson.github.io/posts/tomb/</loc>
     <lastmod>2024-01-26T11:37:47-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bash/</loc>
+    <loc>https://theonlyanson.github.io/tags/bash/</loc>
     <lastmod>2024-01-25T01:00:20-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/usb-autosuspend/</loc>
+    <loc>https://theonlyanson.github.io/posts/usb-autosuspend/</loc>
     <lastmod>2024-01-25T01:00:20-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
+    <loc>https://theonlyanson.github.io/tags/linux/</loc>
     <lastmod>2024-01-25T01:00:20-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://theonlyanson.github.io/tags/</loc>
     <lastmod>2024-01-25T01:00:20-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/connect-wifi-arch/</loc>
+    <loc>https://theonlyanson.github.io/posts/connect-wifi-arch/</loc>
     <lastmod>2024-01-25T00:13:08-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ethernet-driver-missing/</loc>
+    <loc>https://theonlyanson.github.io/posts/ethernet-driver-missing/</loc>
     <lastmod>2024-01-22T09:25:08-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://theonlyanson.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://theonlyanson.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://theonlyanson.github.io/search/</loc>
   </url>
 </urlset>
