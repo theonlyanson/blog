@@ -1,0 +1,56 @@
+baseURL: "https://theonlyanson.github.io/"
+languageCode: en-us
+title: ASD Blogs
+theme: PaperMod
+
+params:
+  cover:
+    linkFullImages: true
+    responsiveImages: false
+
+  ShowBreadCrumbs: true
+  ShowShareButtons: true
+  ShowToc: true
+  TocOpen: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  author: ["Anson Sarosh Dsouza"]
+  ShowReadingTime: true
+  #disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  # ShowWordCount: true
+  # ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  comments: true
+  hideFooter: true
+  displayFullLangName: true
+  analytics.google.SiteVerificationTag: true
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+  
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 40
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+      outputs:
+        home:
+          - HTML
+          - RSS
+          - JSON # necessary for search
