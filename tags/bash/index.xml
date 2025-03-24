@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bash on ASD Blogs</title>
-    <link>https://theonlyanson.github.io/tags/bash/</link>
-    <description>Recent content in bash on ASD Blogs</description>
+    <title>Bash on ASD Blogs</title>
+    <link>http://localhost:1313/tags/bash/</link>
+    <description>Recent content in Bash on ASD Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Jan 2024 01:00:20 -0600</lastBuildDate>
-    <atom:link href="https://theonlyanson.github.io/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to resolve USB Autosuspend Issue?</title>
-      <link>https://theonlyanson.github.io/posts/usb-autosuspend/</link>
+      <link>http://localhost:1313/posts/usb-autosuspend/</link>
       <pubDate>Thu, 25 Jan 2024 01:00:20 -0600</pubDate>
-      <guid>https://theonlyanson.github.io/posts/usb-autosuspend/</guid>
+      <guid>http://localhost:1313/posts/usb-autosuspend/</guid>
       <description>Hello Reader,
 Recently, I encountered an issue where every time I powered on my computer, the externally connected mouse and keyboard would automatically disconnect. It was a frustrating experience, and despite my initial attempts to troubleshoot and resolve the problem, none of the conventional solutions seemed to work.
 After some persistent digging, I stumbled upon a potential solution that finally addressed the issue. If you&amp;rsquo;re facing a similar problem, give the following steps a try:</description>
     </item>
     <item>
       <title>Connect to Wifi during Arch installation</title>
-      <link>https://theonlyanson.github.io/posts/connect-wifi-arch/</link>
+      <link>http://localhost:1313/posts/connect-wifi-arch/</link>
       <pubDate>Thu, 25 Jan 2024 00:13:08 -0600</pubDate>
-      <guid>https://theonlyanson.github.io/posts/connect-wifi-arch/</guid>
+      <guid>http://localhost:1313/posts/connect-wifi-arch/</guid>
       <description>Hello Reader,
 During the Arch Linux installation process, connecting to WiFi might be necessary if you are not using a wired connection. Here&amp;rsquo;s a step-by-step guide to help you get your Arch system connected to WiFi.
 Check Available Interfaces First, check the available wireless interfaces using the following command:

@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://theonlyanson.github.io/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2024-01-22T09:05:16-06:00</lastmod>
   </url><url>
-    <loc>https://theonlyanson.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-03-06T21:45:43-06:00</lastmod>
   </url><url>
-    <loc>https://theonlyanson.github.io/posts/wograt/</loc>
+    <loc>http://localhost:1313/posts/wograt/</loc>
     <lastmod>2024-03-06T21:45:43-06:00</lastmod>
   </url><url>
-    <loc>https://theonlyanson.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-03-06T21:45:43-06:00</lastmod>
   </url><url>
-    <loc>https://theonlyanson.github.io/posts/arch_install/</loc>
+    <loc>http://localhost:1313/posts/arch_install/</loc>
     <lastmod>2024-01-30T08:50:52-06:00</lastmod>
   </url><url>
-    <loc>https://theonlyanson.github.io/posts/tomb/</loc>
+    <loc>http://localhost:1313/posts/tomb/</loc>
     <lastmod>2024-01-26T11:37:47-06:00</lastmod>
   </url><url>
-    <loc>https://theonlyanson.github.io/tags/bash/</loc>
+    <loc>http://localhost:1313/tags/bash/</loc>
     <lastmod>2024-01-25T01:00:20-06:00</lastmod>
   </url><url>
-    <loc>https://theonlyanson.github.io/posts/usb-autosuspend/</loc>
+    <loc>http://localhost:1313/posts/usb-autosuspend/</loc>
     <lastmod>2024-01-25T01:00:20-06:00</lastmod>
   </url><url>
-    <loc>https://theonlyanson.github.io/tags/linux/</loc>
+    <loc>http://localhost:1313/tags/linux/</loc>
     <lastmod>2024-01-25T01:00:20-06:00</lastmod>
   </url><url>
-    <loc>https://theonlyanson.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-01-25T01:00:20-06:00</lastmod>
   </url><url>
-    <loc>https://theonlyanson.github.io/posts/connect-wifi-arch/</loc>
+    <loc>http://localhost:1313/posts/connect-wifi-arch/</loc>
     <lastmod>2024-01-25T00:13:08-06:00</lastmod>
   </url><url>
-    <loc>https://theonlyanson.github.io/posts/ethernet-driver-missing/</loc>
+    <loc>http://localhost:1313/posts/ethernet-driver-missing/</loc>
     <lastmod>2024-01-22T09:25:08-06:00</lastmod>
   </url><url>
-    <loc>https://theonlyanson.github.io/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://theonlyanson.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://theonlyanson.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
